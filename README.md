@@ -14,7 +14,28 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
+  <<< Author notes: Step 3 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+  Historic note: previous version checked the homepage content was not empty.
+-->
+
+## Step 3: Customize your homepage
+
+_Nice work setting the theme! :sparkles:_
+
+You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
+
+### :keyboard: Activity: Create your homepage
+
+1. Browse to the `index.md` file in the `my-pages` branch.
+1. In the upper right corner, open the file editor.
+1. Type the content you want on your homepage. You can use Markdown formatting on this page.
+1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
+1. Commit your changes to the `my-pages` branch.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+<<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
@@ -37,6 +58,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
    > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
    > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+
 
 <footer>
 
